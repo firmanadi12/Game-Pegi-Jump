@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Game_Project
+</name>
+</assembly>
+<members>
+<member name="T:Game_Project.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Game_Project.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Game_Project.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Game_Project.My.Resources.Resources.db_game">
+<summary>
+  Looks up a localized string similar to -- phpMyAdmin SQL Dump
+-- version 5.1.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: Jul 07, 2022 at 06:17 AM
+-- Server version: 10.4.22-MariaDB
+-- PHP Version: 7.4.27
+
+SET SQL_MODE = &quot;NO_AUTO_VALUE_ON_ZERO&quot;;
+START TRANSACTION;
+SET time_zone = &quot;+00:00&quot;;
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 * [rest of string was truncated]&quot;;.
+</summary>
+</member>
+<member name="P:Game_Project.My.Resources.Resources.mixkit_cartoon_failure_piano_473">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Game_Project.My.Resources.Resources.mixkit_summer_fun_13">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Game_Project.My.Resources.Resources.mixkit_video_game_spin_jump_2648">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
